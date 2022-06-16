@@ -17,4 +17,6 @@ Conheça minhas redes sociais:
 </div>
 <br/>
 
+Apaixonado por tecnologia, e gostaria de mudar a vida das pessoas através da programação. 🕹️ 🖥️ 👨‍💻 🤖
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melquisedequef&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
