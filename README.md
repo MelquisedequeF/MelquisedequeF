@@ -15,7 +15,7 @@ Conheça minhas redes sociais:
 <!--   <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> -->
   <img align="center" alt="css" hight=" 45px" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="css" margin-left="5px" hight=" 45px" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />    
-  <img align="center" alt="css" margin-left="5px" hight=" 45px" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="css" margin-left="25px" hight=" 45px" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="css" margin-left="5px" hight=" 45px" width="85px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
